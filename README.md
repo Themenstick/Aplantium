@@ -6,4 +6,5 @@ Restart Processes: If needed, you can restart processes with just a few clicks.
 Close Processes Immediately: A quick and efficient way to close processes when necessary.
 Future Updates: More features and improvements are planned for future updates, based on user feedback, to enhance the injector’s capabilities.
 Aplantium Injector is designed with simplicity and functionality in mind, making it an ideal tool for power users.
+
 Version 1.0 https://www.mediafire.com/file/rxs02cw57psloo0/AplantiumInjector.zip/file
